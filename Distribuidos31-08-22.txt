@@ -1,0 +1,36 @@
+Errores comunes de programadores JR
+1. No tener codigo limpio (Codigo autodescriptible) 
+2. Comentarios utilies 
+3. Unit testing (Pruebas Unitarias) Probar bloques de codigo Diferentes tipos de testing
+4. Aceptar fallar ()
+5. Terminal o Linea de comandos
+6. Git (Control de versiones)
+7. Crear proyectos personales desafiantes y terminarlos
+8. Entiende el por qué
+9. Enamorarte de un lenguaje,,asdfjklñ
+10. 
+
+
+Particulas alfa
+Rayos cosmicos (Particulas)
+Piones, neutrones protones muones
+Una de estas particulas impacto en una computadora que se utilizaba para contabilizar votos de una elección y cambio un bit de un 0 a un 1
+Cambio de bit en un juego de Mario debido a un rayo cosmico
+256MB cambio de bit por mes por los neutrones
+Fallos en las supercomputadoras por los rayos cosmicos, se instalaron detectores de neutrones para ver los cambios que se pueden crear
+Fallas en el ADIRU de un avión
+Protección en las naves 
+Resistir 40 veces la radición que un computadora normal
+Heliosfera protege al sistema solar de la radiación 
+Cambio del codigo genetico por los rayos cosmicos 
+
+
+
+
+Mecanismo de Anticitera (Computadora que funciona por analogia)
+Continua
+Representa parametros fisicos
+Dispositivos analogicos
+Potenciometros usados para apuntar
+Computadoreas digitales (Eniac la primera computadora moderna)
+Beneficio de lo analogico 
